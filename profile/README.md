@@ -14,5 +14,7 @@ The names come from Korean village life, when neighbours worked the fields toget
 | [**Pumasi** (품앗이)](https://dureh-gb.github.io/pumasi.html) | trading a hand of work | See and control your own computers over SSH | Private beta |
 | [**Masil** (마실)](https://dureh-gb.github.io/masil.html) | dropping by a neighbour | Reach your computers from Windows or your phone while you're out | In development |
 | [**Saecham** (새참)](https://dureh-gb.github.io/saecham.html) | the snack between field work | Keeps your terminal sessions alive on Windows | Planned |
+| [**Jipsa** (집사)](https://dureh-gb.github.io/jipsa.html) | the household steward | Turns your computers on and off through smart-home plugs | Closed beta |
+| [**Dwitgan** (뒷간)](https://dureh-gb.github.io/dwitgan.html) | the outhouse, a private space | Locks an unattended computer while your agents work | Planned |
 
 More at [dureh-gb.github.io](https://dureh-gb.github.io).
