@@ -10,9 +10,9 @@ The names come from Korean village life, when neighbours worked the fields toget
 
 | Project | Meaning | What it is | Status |
 |---|---|---|---|
-| **Pumasi** (품앗이) | trading a hand of work | See and control your own computers over SSH | Private beta |
-| **Dureh** (두레) | the village work group | The place where your computers, services and agents work together | In development |
-| **Masil** (마실) | dropping by a neighbour | Reach your computers from Windows or your phone while you're out | In development |
-| **Saecham** (새참) | the snack between field work | Keeps your terminal sessions alive on Windows | In development |
+| [**Dureh** (두레)](https://dureh-gb.github.io/dureh.html) | the village work group | The place where your computers, services and agents work together | Private beta |
+| [**Pumasi** (품앗이)](https://dureh-gb.github.io/pumasi.html) | trading a hand of work | See and control your own computers over SSH | Private beta |
+| [**Masil** (마실)](https://dureh-gb.github.io/masil.html) | dropping by a neighbour | Reach your computers from Windows or your phone while you're out | In development |
+| [**Saecham** (새참)](https://dureh-gb.github.io/saecham.html) | the snack between field work | Keeps your terminal sessions alive on Windows | Planned |
 
 More at [dureh-gb.github.io](https://dureh-gb.github.io).
