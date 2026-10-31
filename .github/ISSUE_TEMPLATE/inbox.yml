@@ -1,6 +1,5 @@
-# 📥 안건: the developer's requests to the Dureh desks (gongbang-in#98). One shared form for every dureh-gb repository
-# (org default; a repository with its own ISSUE_TEMPLATE folder does not use it). The desks treat an item as the
-# developer's only when its author is the developer's account; anyone can use this form, and its label is a hint only.
+# 📥 안건: one shared request form for every repository of this organization (org default).
+# Anyone can use it; the label is a hint only.
 name: "📥 안건"
 description: "개발자님 요청: 짧게 쓰셔도 빠지는 것 없이"
 title: "📥 "
@@ -11,7 +10,7 @@ body:
     id: what
     attributes:
       label: 무엇을 원하시나요
-      description: "한두 줄이면 됩니다. 예: Mac 퇴근 때 확실히 잠들게."
+      description: "한두 줄이면 됩니다."
     validations:
       required: true
   - type: dropdown
@@ -34,7 +33,7 @@ body:
     id: where
     attributes:
       label: 어디서
-      description: "선택. 기기 · 앱 · 계정 (예: Mac · Pumasi Viewer · dureh)"
+      description: "선택. 기기 · 앱 · 계정"
   - type: textarea
     id: done
     attributes:
@@ -44,4 +43,4 @@ body:
     id: related
     attributes:
       label: 관련 이슈
-      description: "선택. 예: dureh#465, #98"
+      description: "선택. 예: #123"
