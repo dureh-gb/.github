@@ -1,9 +1,9 @@
 # 📥 안건: one shared request form for every repository of this organization (org default).
 # Anyone can use it; the label is a hint only.
 name: "📥 안건"
-description: "개발자님 요청: 짧게 쓰셔도 빠지는 것 없이"
+description: "개발자님 요청. 짧게 쓰셔도 됩니다: 필수는 두 칸입니다."
 title: "📥 "
-labels: ["from-developer"]
+labels: ["from-developer", "triage"]
 projects: ["dureh-gb/1"]
 body:
   - type: textarea
