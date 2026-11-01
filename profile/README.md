@@ -24,16 +24,20 @@
 
 <table>
   <tr>
-    <td align="center" width="25%"><img src="images/soroan.webp" width="128" height="128" alt=""><br><b>Lorance Call</b><br>소로안 召路安 · 대표 개발자<br>불러 모으고, 길을 닦습니다.<br><sub>Calls people in, paves the road.</sub></td>
-    <td align="center" width="25%"><img src="images/dopyeonsu.webp" width="128" height="128" alt=""><br><b>도편수</b><br>마지막으로 문을 잠급니다.<br><sub>Last one out, locks the door.</sub></td>
-    <td align="center" width="25%"><img src="images/jangin.webp" width="128" height="128" alt=""><br><b>장인</b><br>"거의 다 됐다"를 "다 됐다"로.<br><sub>Turns "almost done" into "done".</sub></td>
-    <td align="center" width="25%"><img src="images/gaekgong.webp" width="128" height="128" alt=""><br><b>객공</b><br>두들겨 본 것만 믿습니다.<br><sub>Trusts only what he has tapped.</sub></td>
+    <td align="center" width="50%"><img src="images/soroan.webp" width="128" height="128" alt=""><br><b>Lorance Call</b><br>소로안 召路安 · 대표 개발자<br>불러 모으고, 길을 닦습니다.<br><sub>Calls people in, paves the road.</sub></td>
+    <td align="center" width="50%"><img src="images/dopyeonsu.webp" width="128" height="128" alt=""><br><b>도편수</b><br>마지막으로 문을 잠급니다.<br><sub>Last one out, locks the door.</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="images/gilson.webp" width="128" height="128" alt=""><br><b>길손</b><br>삿갓 하나로 어디든, 소식은 먼저.<br><sub>One straw hat, first with the news.</sub></td>
-    <td align="center"><img src="images/dancheongjang.webp" width="128" height="128" alt=""><br><b>단청장</b><br>"이 기둥엔 주홍이죠."<br><sub>"This pillar wants vermilion."</sub></td>
-    <td align="center"><img src="images/pumkkun.webp" width="128" height="128" alt=""><br><b>품꾼</b> (여럿)<br>"두 군데만 고치시면 돼요."<br><sub>"Just two spots to fix."</sub></td>
-    <td align="center"><img src="images/dongja.webp" width="128" height="128" alt=""><br><b>동자</b> (여럿)<br>"다녀왔습니다!"<br><sub>"I'm back!"</sub></td>
+    <td align="center" width="50%"><img src="images/jangin.webp" width="128" height="128" alt=""><br><b>장인</b><br>"거의 다 됐다"를 "다 됐다"로.<br><sub>Turns "almost done" into "done".</sub></td>
+    <td align="center" width="50%"><img src="images/gaekgong.webp" width="128" height="128" alt=""><br><b>객공</b><br>두들겨 본 것만 믿습니다.<br><sub>Trusts only what he has tapped.</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="50%"><img src="images/gilson.webp" width="128" height="128" alt=""><br><b>길손</b><br>삿갓 하나로 어디든, 소식은 먼저.<br><sub>One straw hat, first with the news.</sub></td>
+    <td align="center" width="50%"><img src="images/dancheongjang.webp" width="128" height="128" alt=""><br><b>단청장</b><br>"이 기둥엔 주홍이죠."<br><sub>"This pillar wants vermilion."</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="50%"><img src="images/pumkkun.webp" width="128" height="128" alt=""><br><b>품꾼</b> (여럿)<br>"두 군데만 고치시면 돼요."<br><sub>"Just two spots to fix."</sub></td>
+    <td align="center" width="50%"><img src="images/dongja.webp" width="128" height="128" alt=""><br><b>동자</b> (여럿)<br>"다녀왔습니다!"<br><sub>"I'm back!"</sub></td>
   </tr>
 </table>
 
