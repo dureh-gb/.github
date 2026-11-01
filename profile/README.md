@@ -24,7 +24,7 @@
 
 <table>
   <tr>
-    <td align="center" width="50%"><img src="images/soroan.webp" width="128" height="128" alt=""><br><b>Lorance Call</b><br>소로안 召路安 · 대표 개발자<br>불러 모으고, 길을 닦습니다.<br><sub>Calls people in, paves the road.</sub></td>
+    <td align="center" width="50%"><img src="images/soroan.webp" width="128" height="128" alt=""><br><b>소로안 (召路安)</b><br>대표 개발자 · <sub>Lead developer</sub><br>불러 모으고, 길을 닦습니다.<br><sub>Calls people in, paves the road.</sub></td>
     <td align="center" width="50%"><img src="images/dopyeonsu.webp" width="128" height="128" alt=""><br><b>도편수</b><br>마지막으로 문을 잠급니다.<br><sub>Last one out, locks the door.</sub></td>
   </tr>
   <tr>
