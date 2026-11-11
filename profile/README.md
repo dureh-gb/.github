@@ -17,9 +17,6 @@
 | [**품앗이 Pumasi**](https://dureh-gb.github.io/pumasi.html) | 건너편 컴퓨터에 손을 빌려줍니다.<br><sub>Lend a hand to the computer across the room.</sub> |
 | [**마실 Masil**](https://dureh-gb.github.io/masil.html) | 어디서든 내 컴퓨터로 마실 갑니다.<br><sub>Drop in on your computers from wherever you are.</sub> |
 
-공방에는 다른 도구도 있습니다.<br>
-<sub>There are more tools on the workbench.</sub>
-
 ## 공방 사람들 · The workshop
 
 <table>
